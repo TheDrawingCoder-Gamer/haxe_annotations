@@ -1,0 +1,5 @@
+-p src
+--main Main
+--dce std
+--java-lib lib/build/libs/lib.jar
+--jvm out.jar
